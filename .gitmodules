@@ -1,0 +1,3 @@
+[submodule "flutter-submodule-issue-module"]
+	path = flutter-submodule-issue-module
+	url = https://github.com/maicoqb/flutter-submodule-issue-module
